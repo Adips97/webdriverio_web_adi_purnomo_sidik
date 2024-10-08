@@ -46,3 +46,6 @@ Execute the following command to running automation:
    ```
    npm run prepare:allure
    ```
+
+Evidence running with Allure-Report
+![Allure-Report Web](https://github.com/user-attachments/assets/5a64fc56-bf69-4fa3-8aa5-8565c2907d40)
