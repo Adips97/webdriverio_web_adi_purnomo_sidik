@@ -1,5 +1,5 @@
 ## Overview
-This project automates key eBay search and filter functionalities using `webdriver.io` with a `BDD` framework and the `Page Object Model`. The project consists of two scenarios:
+This project automation using `webdriver.io` with a `BDD` framework and the `Page Object Model`. The project consists of 3 scenarios:
 1. Success login
 2. Invalid login
 3. Add product to cart
